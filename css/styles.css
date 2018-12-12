@@ -18,7 +18,7 @@ ul {
     text-decoration: none;
   }
   
-  .hover {
+  li a .hover{
     text-decoration: underline;
     background-color: #4CAF50;
   }
