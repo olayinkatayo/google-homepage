@@ -15,8 +15,6 @@ li a{
     padding: 14px 16px;
     text-decoration: none;
 }
-a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
+li a:hover {
+    background-color: #111;
 }
