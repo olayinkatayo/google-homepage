@@ -23,6 +23,8 @@ ul {
     background-color: #4CAF50;
   }
   .button {
+    top: 50%;
+    left: 50%;
     background-color: #3f3c3c; /* Green */
     border: none;
     color: white;
