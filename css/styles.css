@@ -44,5 +44,6 @@ ul {
   .center {
     display: block;
     margin-left: 50%;
-    margin-top: auto;
+    margin-right: 50%;
+    margin-bottom: 50%;
   }
