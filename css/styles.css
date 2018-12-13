@@ -9,10 +9,6 @@ header {
   width: 100%;
 }
 
-.header-left {
-  float: left;
-}
-
 ul {
   list-style: none;
 }
@@ -20,6 +16,15 @@ ul {
 /* NAV BAR */
 #nav_bar {
   float: right;
+}
+
+#nav_bar_left {
+  float: left;
+}
+
+#nav_bar_left li{
+  display: inline;
+  padding: 8px;
 }
 
 #nav_bar li {
