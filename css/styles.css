@@ -76,10 +76,10 @@ li.nav-links a:hover {
   padding: 0 8px;
 }
 
-/*#form-search:hover {
+#form-search:hover {
   border-color: #e4e4e4;
   padding-top: 0;
-}*/
+}
 
 .buttons {
   text-align: center;
