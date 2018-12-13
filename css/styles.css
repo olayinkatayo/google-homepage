@@ -9,6 +9,10 @@ header {
   width: 100%;
 }
 
+.header-left {
+  float: left;
+}
+
 ul {
   list-style: none;
 }
