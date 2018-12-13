@@ -15,7 +15,7 @@ ul {
 
 /* NAV BAR */
 #nav_bar {
-  float: right;
+
 }
 
 #nav_bar li {
@@ -33,6 +33,11 @@ ul {
 
 .nav-links {
   color: #404040;
+  float: right;
+}
+
+.nav-links-left {
+  float: left;
 }
 
 a {
