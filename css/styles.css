@@ -29,6 +29,7 @@ ul {
   padding: 7px 15px;
   border-radius: 3px; 
   font-weight: bold;
+  float: right;
 }
 
 .nav-links {
